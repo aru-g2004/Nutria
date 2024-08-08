@@ -6,7 +6,7 @@ class AuthService {
   final GoogleSignIn _googleSignIn = GoogleSignIn(
     scopes: <String>['email', 'profile'],
     clientId:
-        '834925183749-vi6e3nbt25h4ef0ig4c8qb4947afbs7g.apps.googleusercontent.com',
+        'YOUR_APP_CLIENT_ID', 
   );
 
   Future<UserCredential> signUpWithEmailAndPassword(
