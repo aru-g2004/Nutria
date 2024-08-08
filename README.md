@@ -10,8 +10,8 @@ Nutria goes beyond basic meal suggestions with specialized modes like Snack Mode
 
 Built with Flutter for seamless cross-platform use, Nutria prioritizes a user-friendly experience and reliable performance. Additional features include Google sign-in via Firebase, easy access to your favorite meals and recipes, and a commitment to making a positive impact on your well-being. You are what you eat so make it count! 
 
-How can I try out the app myself?
+# How can I try out the app myself?
 I have hosted Nutria as a web application on Firebase so you can test it out using this link! 
 https://nutria-97082.web.app/
 
-Developed by Arushi Gupta and Designed by Anika Gupta :)
+# Developed by Arushi Gupta and Designed by Anika Gupta :)
