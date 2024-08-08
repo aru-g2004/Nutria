@@ -19,6 +19,8 @@ Are you struggling to find delicious meals that fit your lifestyle? Say hello to
   - Google sign-in via Firebase
   - Easy access to your favorite meals and recipes
   - Commitment to making a positive impact on your well-being
+  - Using Youtube API to provide youtube recipe tutorials
+  - Using Google Custom Search API for recipe links and recipe images
 
 ## Try Nutria
 I have hosted Nutria as a web application on Firebase so you can test it out using this link! 
