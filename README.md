@@ -1,5 +1,4 @@
 # Nutria - Gemini API Developer Competition Submission 
-
 Check out our video!
 https://youtu.be/Ym26BaN7Nxw?si=Y8vKILFOTdwtpYF2
 
@@ -10,5 +9,9 @@ To deliver truly personalized recommendations, Nutria starts by asking you to fi
 Nutria goes beyond basic meal suggestions with specialized modes like Snack Mode, Dessert Mode, List Mode, and Restaurant Mode to discover nearby options that match your preferences. Nutria has a list mode which uses Gemini's image capabilities to suggest meals based on your inventory. You can also snap a photo of your fridge or restaurant menu, and get instant meal ideas tailored to what you have on hand or what looks good. 
 
 Built with Flutter for seamless cross-platform use, Nutria prioritizes a user-friendly experience and reliable performance. Additional features include Google sign-in via Firebase, easy access to your favorite meals and recipes, and a commitment to making a positive impact on your well-being. You are what you eat so make it count! 
+
+How can I try out the app myself?
+I have hosted Nutria as a web application on Firebase so you can test it out using this link! 
+https://nutria-97082.web.app/
 
 Developed by Arushi Gupta and Designed by Anika Gupta :)
