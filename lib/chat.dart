@@ -10,6 +10,7 @@ import 'package:hive/hive.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:nutria/services/message.dart';
 import 'package:nutria/services/utilities.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class ChatScreen extends StatefulWidget {
   @override
@@ -20,7 +21,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final TextEditingController _textController = TextEditingController();
   late Box<Message> _messageBox;
   bool _isWaitingForResponse = false;
-  String _apiKey = "AIzaSyDsLKT2vDJILvungfFytzOsrHwOAGA1S0Q";
+  String _apiKey = dotenv.env['GEMINI_API_KEY'];
   late final GenerativeModel _model;
   late final ChatSession _chat;
   final ScrollController _scrollController = ScrollController();
